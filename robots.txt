@@ -1,3 +1,4 @@
 User-agent: *
-Disallow: 
+Disallow: /1.html
+Disallow: /2.html
 Sitemap: https://groups.ga/sitemap.xml
