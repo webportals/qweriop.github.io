@@ -1,5 +1,5 @@
 User-agent: *
 Disallow: /1.html
 Disallow: /2.html
-Disallow: /*attorney*
+Disallow: /*attorney
 Sitemap: https://groups.ga/sitemap.xml
