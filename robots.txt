@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://groups.ga/sitemap.xml
